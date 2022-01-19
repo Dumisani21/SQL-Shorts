@@ -6,7 +6,7 @@ from database.sqlite import *
 
 # DB.sql_create_table('customer',"(fname text,lname text,email text,phone integer)")
 
-# DB.sql_insert_data('customer','(?,?,?,?)',('Man','Doe','JamesD@gmail.com',4123021391))
+# db.sql_insert_data('customer',('John','Doe'))
 
 # DB.sql_udate_data('customer',"email = 'MaxS@gmail.com'",1)
 
