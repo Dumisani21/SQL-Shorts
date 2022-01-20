@@ -1,6 +1,6 @@
 # SQL Shorts v1.1.0
 
-### I made this program to help make sqlite3 less conplicated to use, there developer has a few term's and conditions. 
+### I made this program to help make sqlite3 less conplicated to use
 
 ## How to download SQL Shorts.
 
