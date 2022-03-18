@@ -36,7 +36,6 @@ class DATABASE:
 
 		else:
 
-
 			for index in range(len(insert_data)):
 
 				if index == len(insert_data) -1:
